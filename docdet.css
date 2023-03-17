@@ -1,0 +1,30 @@
+.size{
+    height: 10in;
+    width:16in;
+    background-color:rgb(220, 223, 229);
+    align-content: end;
+    
+}
+.h1{
+    background-color: rgb(220, 223, 229);
+}
+.cnt{
+    height: 10in;
+    width:16in;
+    background-color: rgb(220, 223, 229);
+    
+
+}
+.table{
+    height:auto;
+    width: 16in;
+    font-size:larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    width: 5cm;
+    height: 1.50cm;
+    border-radius: 1cm;
+    background-color: brown;
+    
+}

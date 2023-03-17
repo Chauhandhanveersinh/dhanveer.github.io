@@ -1,0 +1,37 @@
+.size{
+    
+    padding-left: 1in;
+    background-color:gainsboro;
+    align-content: end;
+    
+}
+.h1{
+    background-color:rgb(220, 223, 229);
+}
+.cnt{
+    height: 17in;
+    width:16in;
+    background-color: rgb(220, 223, 229);
+    
+
+}
+.table{
+    padding-left: 1in;
+    width: 10in;
+    font-size:larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  
+}
+.button{
+    width: 5cm;
+    height: 1.50cm;
+    border-radius: 1cm;
+    background-color: brown;
+    
+}
+.tbox{
+    width: 5in;
+    height: 0.50in;
+    border-radius: 0.50in;
+}

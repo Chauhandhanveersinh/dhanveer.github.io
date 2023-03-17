@@ -1,0 +1,16 @@
+img{
+    height: 10ic;
+    padding-left:1%;
+    align-items: center;
+}
+.card{
+    padding-top: 2ic;
+    padding-right: 20%;
+    height: 20ic;
+    width: 20ic;
+   
+}
+.size{
+   background-image: "docback.jpeg";
+    
+}
